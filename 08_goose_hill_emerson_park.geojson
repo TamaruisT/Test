@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goose Hill / Emerson Park",
+        "rank_in_user_list": 8,
+        "boundary_quality": "Approximate, manually interpreted from screenshot; not surveyed or official",
+        "source": "User-supplied NeighborhoodScout screenshot",
+        "stroke": "#272727",
+        "stroke-width": 2,
+        "fill": "#f0ae48",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.099968,
+              38.619406
+            ],
+            [
+              -90.086976,
+              38.615173
+            ],
+            [
+              -90.077008,
+              38.612961
+            ],
+            [
+              -90.07208,
+              38.61729
+            ],
+            [
+              -90.06928,
+              38.609401
+            ],
+            [
+              -90.067936,
+              38.60488
+            ],
+            [
+              -90.073872,
+              38.607958
+            ],
+            [
+              -90.075328,
+              38.61094
+            ],
+            [
+              -90.077008,
+              38.612961
+            ],
+            [
+              -90.08216,
+              38.61373
+            ],
+            [
+              -90.086864,
+              38.614788
+            ],
+            [
+              -90.09168,
+              38.615943
+            ],
+            [
+              -90.098736,
+              38.617963
+            ],
+            [
+              -90.099968,
+              38.619406
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

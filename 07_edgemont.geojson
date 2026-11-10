@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edgemont",
+        "rank_in_user_list": 7,
+        "boundary_quality": "Approximate, manually interpreted from screenshot; not surveyed or official",
+        "source": "User-supplied NeighborhoodScout screenshot",
+        "stroke": "#272727",
+        "stroke-width": 2,
+        "fill": "#f0ae48",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.07208,
+              38.61729
+            ],
+            [
+              -90.06256,
+              38.613442
+            ],
+            [
+              -90.053152,
+              38.609594
+            ],
+            [
+              -90.051696,
+              38.606611
+            ],
+            [
+              -90.0564,
+              38.603341
+            ],
+            [
+              -90.06312,
+              38.599396
+            ],
+            [
+              -90.067936,
+              38.60488
+            ],
+            [
+              -90.06928,
+              38.609401
+            ],
+            [
+              -90.077008,
+              38.612961
+            ],
+            [
+              -90.07208,
+              38.61729
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

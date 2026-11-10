@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winstanley",
+        "rank_in_user_list": 9,
+        "boundary_quality": "Approximate, manually interpreted from screenshot; not surveyed or official",
+        "source": "User-supplied NeighborhoodScout screenshot",
+        "stroke": "#272727",
+        "stroke-width": 2,
+        "fill": "#f0ae48",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.151376,
+              38.648843
+            ],
+            [
+              -90.13368,
+              38.648555
+            ],
+            [
+              -90.129536,
+              38.643552
+            ],
+            [
+              -90.136928,
+              38.639319
+            ],
+            [
+              -90.139056,
+              38.62893
+            ],
+            [
+              -90.142416,
+              38.627102
+            ],
+            [
+              -90.140736,
+              38.614019
+            ],
+            [
+              -90.143424,
+              38.615558
+            ],
+            [
+              -90.15832,
+              38.618636
+            ],
+            [
+              -90.154176,
+              38.632393
+            ],
+            [
+              -90.151824,
+              38.642013
+            ],
+            [
+              -90.151376,
+              38.648843
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

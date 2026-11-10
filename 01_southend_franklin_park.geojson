@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southend / Franklin Park",
+        "rank_in_user_list": 1,
+        "boundary_quality": "Approximate, manually interpreted from screenshot; not surveyed or official",
+        "source": "User-supplied NeighborhoodScout screenshot",
+        "stroke": "#272727",
+        "stroke-width": 2,
+        "fill": "#f0ae48",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.142416,
+              38.627102
+            ],
+            [
+              -90.139056,
+              38.62893
+            ],
+            [
+              -90.133232,
+              38.622581
+            ],
+            [
+              -90.126624,
+              38.616039
+            ],
+            [
+              -90.121808,
+              38.610844
+            ],
+            [
+              -90.116544,
+              38.604784
+            ],
+            [
+              -90.112288,
+              38.598531
+            ],
+            [
+              -90.11912,
+              38.594009
+            ],
+            [
+              -90.125392,
+              38.599396
+            ],
+            [
+              -90.132896,
+              38.610171
+            ],
+            [
+              -90.13536,
+              38.608151
+            ],
+            [
+              -90.140736,
+              38.614019
+            ],
+            [
+              -90.142416,
+              38.627102
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lansdowne / Rose Lake",
+        "rank_in_user_list": 4,
+        "boundary_quality": "Approximate, manually interpreted from screenshot; not surveyed or official",
+        "source": "User-supplied NeighborhoodScout screenshot",
+        "stroke": "#272727",
+        "stroke-width": 2,
+        "fill": "#f0ae48",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.130656,
+              38.632489
+            ],
+            [
+              -90.12584,
+              38.629122
+            ],
+            [
+              -90.119456,
+              38.62816
+            ],
+            [
+              -90.114416,
+              38.633547
+            ],
+            [
+              -90.106912,
+              38.631527
+            ],
+            [
+              -90.110272,
+              38.624986
+            ],
+            [
+              -90.112064,
+              38.619406
+            ],
+            [
+              -90.108816,
+              38.613923
+            ],
+            [
+              -90.11464,
+              38.609209
+            ],
+            [
+              -90.116544,
+              38.604784
+            ],
+            [
+              -90.121808,
+              38.610844
+            ],
+            [
+              -90.126624,
+              38.616039
+            ],
+            [
+              -90.133232,
+              38.622581
+            ],
+            [
+              -90.139056,
+              38.62893
+            ],
+            [
+              -90.130656,
+              38.632489
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

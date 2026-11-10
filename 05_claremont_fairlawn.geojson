@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claremont / Fairlawn",
+        "rank_in_user_list": 5,
+        "boundary_quality": "Approximate, manually interpreted from screenshot; not surveyed or official",
+        "source": "User-supplied NeighborhoodScout screenshot",
+        "stroke": "#272727",
+        "stroke-width": 2,
+        "fill": "#f0ae48",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.114416,
+              38.633547
+            ],
+            [
+              -90.098848,
+              38.627968
+            ],
+            [
+              -90.102544,
+              38.627487
+            ],
+            [
+              -90.088544,
+              38.623158
+            ],
+            [
+              -90.089888,
+              38.621138
+            ],
+            [
+              -90.099968,
+              38.624216
+            ],
+            [
+              -90.103776,
+              38.619406
+            ],
+            [
+              -90.107696,
+              38.619983
+            ],
+            [
+              -90.108816,
+              38.613923
+            ],
+            [
+              -90.112064,
+              38.619406
+            ],
+            [
+              -90.110272,
+              38.624986
+            ],
+            [
+              -90.106912,
+              38.631527
+            ],
+            [
+              -90.114416,
+              38.633547
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

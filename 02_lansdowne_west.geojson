@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lansdowne West",
+        "rank_in_user_list": 2,
+        "boundary_quality": "Approximate, manually interpreted from screenshot; not surveyed or official",
+        "source": "User-supplied NeighborhoodScout screenshot",
+        "stroke": "#272727",
+        "stroke-width": 2,
+        "fill": "#f0ae48",
+        "fill-opacity": 0.4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.136928,
+              38.639319
+            ],
+            [
+              -90.129536,
+              38.643552
+            ],
+            [
+              -90.124496,
+              38.64817
+            ],
+            [
+              -90.120352,
+              38.644033
+            ],
+            [
+              -90.115984,
+              38.644129
+            ],
+            [
+              -90.111504,
+              38.638646
+            ],
+            [
+              -90.114192,
+              38.633163
+            ],
+            [
+              -90.119456,
+              38.62816
+            ],
+            [
+              -90.12584,
+              38.629122
+            ],
+            [
+              -90.130656,
+              38.632489
+            ],
+            [
+              -90.136928,
+              38.639319
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
